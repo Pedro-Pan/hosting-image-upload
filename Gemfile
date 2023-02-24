@@ -46,6 +46,7 @@ gem "bootsnap", require: false
 
 # Custom gems
 
+gem "cloudinary"
 gem "sassc-rails"
 gem "simple_form", github: "heartcombo/simple_form"
 gem "dotenv-rails", groups: [:development, :test]
